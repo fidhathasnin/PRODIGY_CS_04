@@ -1,0 +1,1 @@
+[Key.caps_lock]h[Key.caps_lock]ey[Key.space]world,[Key.enter][Key.esc]
